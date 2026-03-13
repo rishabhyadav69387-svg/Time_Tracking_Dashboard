@@ -1,6 +1,6 @@
-# Frontend Mentor - Time tracking dashboard solution
+#  Time tracking dashboard solution
 
-This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). my challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -111,10 +111,6 @@ I made is responsive from **Mobile screen 320px** to **Desktop XL screen at 2560
 
 ## Author
 
-Basant Soni 👨‍💻
+Rishabh yadav👨‍💻
 
-- GitHub - [@SoniBasant](https://github.com/SoniBasant)
-
-- Frontend Mentor - [@SoniBasant](https://www.frontendmentor.io/profile/SoniBasant)
-- CodePen - [@SoniBasant](https://codepen.io/sonibasant)
-- Hashnode - [@SoniBasant](https://sonibasant.hashnode.dev/)
+- GitHub - [@rishabhyadav](https://github.com/rishabhyadav69387-svg)
