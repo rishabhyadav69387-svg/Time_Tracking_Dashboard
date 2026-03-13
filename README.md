@@ -1,6 +1,6 @@
 #  Time tracking dashboard solution
 
-This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw).  it help me improve my coding skills by building realistic projects.
+This is a solution to the [Time tracking dashboard challenge ](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw).  it help me improve my coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -52,9 +52,9 @@ This project is responsive at screens >
 
 ### Links
 
-- Solution URL: [Source Code](https://github.com/SoniBasant/Frontend-Mentor-Projects/tree/main/B7-Time-Tracking-Dashboard)
+- Solution URL: [Source Code](https://github.com/rishabhyadav69387-svg/Time_Tracking_Dashboard)
 
-- Live Site URL: [Live Link](https://sonibasant.github.io/Frontend-Mentor-Projects/B7-Time-Tracking-Dashboard/index.html)
+- Live Site URL: [Live Link](https://github.com/rishabhyadav69387-svg/Time_Tracking_Dashboard/index.html)
 
 ## My process
 
